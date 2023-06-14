@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klatismart
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Arduino & Android Studio
-- 💞️ I’m looking to collaborate for BoT (Bluetooth of Think)
+- 💞️ I’m looking to collaborate BoT (Bluetooth of Think)
 - 📫 How to reach me [Klati Smart](mailto:klatismart@gmail.com)
 
 <!---
